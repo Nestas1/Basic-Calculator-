@@ -9,6 +9,7 @@ Kullanıcı dostu arayüz
 Hızlı ve etkili işlem yapma imkanı
 
 Kullanım 🎯
+
 Projeyi indirin veya klonlayın.
 index.html dosyasını tarayıcıda açın.
 Hesaplamak istediğiniz işlemleri girin ve sonuçları görün!
