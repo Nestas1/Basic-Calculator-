@@ -1,4 +1,5 @@
 Açıklama ✍🏻
+
 Bu proje, temel matematiksel işlemleri gerçekleştiren basit bir hesap makinesi uygulamasıdır. Kullanıcıların toplama, çıkarma, çarpma ve bölme işlemlerini yapmalarını sağlar.
 
 Özellikler ⚙️
